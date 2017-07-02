@@ -1,37 +1,17 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Me
+tags: [about]
+date: 2017-07-01
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+Coder, Ops guy.
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+My name is Luis Alonzo (AKA Wichon) from Guatemala, most of my professional time (9 years to be exact) I have been working as a developer in a wide range of platforms and technologies incluiding php, python, c#, java, js, coffescript and lately bash and some powershell. In the last years I switched to a SysAdmin/DevOps role which I love.
 
-## Preview
+I consider myself a quick learner and passionate about what I do, always looking for new things to learn. I work a lot with cloud technologies and consider myself proficient in Amazon AWS, I just love how the cloud has managed to simplify systems administration like Lego blocks.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+My hobbies include weight lifting (You know to release some steam and stuff), playing video games, socially drinking or just been a couch potato.
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+Take some time to check my [GitHub](https://github.com/wichon) hopefully you may found something useful there.
